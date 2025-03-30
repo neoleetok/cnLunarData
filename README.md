@@ -1,9 +1,9 @@
 # cnLunarData
 Gregorian-Chinese Lunar Calendar Data
 
-網路上很多公曆農曆程序，農曆日期原始數據來源不一而足，而且數據套娃現象嚴重，很多程序都在錯誤引用。
+網路上很多公曆農曆查詢或是轉換程序，農曆日期原始數據來源多樣，WIKI上給出的日期計算方法都各有差異，而且很多程式不明原理的照搬數據或是使用公式偏移量，錯誤引用的情況很常見。
 
-鑑於此，整理搜集了官方發布的權威信息：
+鑑於此，整理搜集了中文地區官方公開發布的權威核心數據：
 
 香港天文台公曆農曆對照表（Hong Kong Observatory Open Data, Gregorian-Lunar calendar conversion table，1901-2100）200年數據文件。
 
